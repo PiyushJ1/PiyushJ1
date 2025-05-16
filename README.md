@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a second-year Software Engineering student at the University of New South Wales.
+
+Currently working on building side projects to learn more about the world of programming, check them out.
+
+Feel free to reach out to me :)
+
+
+
 <!--
 **PiyushJ1/PiyushJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
