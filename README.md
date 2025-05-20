@@ -1,10 +1,6 @@
-## Hi there 👋
+2nd year SWE student at UNSW.
 
-I'm a second-year Software Engineering student at the University of New South Wales.
-
-Currently building side projects to learn more about the world of programming, check them out.
-
-Feel free to reach out to me :)
+Currently working on my Portfolio Website
 
 
 
