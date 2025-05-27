@@ -1,6 +1,6 @@
 2nd year SWE student at UNSW.
 
-piyushj.dev
+https://piyushj.dev
 
 
 
