@@ -1,6 +1,6 @@
 2nd year SWE student at UNSW.
 
-Currently working on my portfolio website: www.piyushj.dev
+https://piyushj.dev
 
 
 
