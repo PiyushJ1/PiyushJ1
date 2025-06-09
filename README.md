@@ -1,7 +1,8 @@
-2nd year SWE student at UNSW.
+2nd year Software Engineering (Honours) student at UNSW.
 
 Currently working on replicating a SQLite Database in C, adding extra features on my own.
 
+Learn more:
 https://piyushj.dev
 
 
