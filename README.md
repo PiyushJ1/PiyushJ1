@@ -1,5 +1,7 @@
 2nd year SWE student at UNSW.
 
+Currently working on replicating a SQLite Database in C, adding extra features on my own.
+
 https://piyushj.dev
 
 
