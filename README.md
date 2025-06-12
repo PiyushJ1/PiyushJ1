@@ -1,23 +1,21 @@
-2nd year Software Engineering (Honours) student at UNSW.
+### 👋 Hi there, I'm Piyush
 
-Currently working on replicating a SQLite Database in C, adding extra features on my own.
+📚 **2nd Year Software Engineering (Honours) Student**  
+📍 University of New South Wales (UNSW)  
+🌐 [piyushj.dev](https://piyushj.dev)
 
-Learn more:
-https://piyushj.dev
+---
 
+### 🚧 Currently Building
 
+**🕒 TimeLens**  
+*A smart time-tracking app to help you understand where your time really goes.*
 
-<!--
-**PiyushJ1/PiyushJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Connect your calendar or log events manually  
+- View categorised summaries (study, work, gym, commute, etc.)  
+- Make more informed decisions with clear daily insights
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🗄️ SQLite Clone in C**  
+- Replicating the core of a SQLite database  
+- Adding extra features beyond the original implementation  
+- Deep dive into systems programming and low-level data handling
