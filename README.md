@@ -8,8 +8,8 @@
 
 ### 🚧 Currently Building
 
-**🕒 TimeLens**  
-*A smart time-tracking app to help you understand where your time really goes.*
+**🕒 TimeLyze**  
+*A smart time-tracking app that helps you analyse where your time really goes — so you can make every minute count.*
 
 - Connect your calendar or log events manually  
 - View categorised summaries (study, work, gym, commute, etc.)  
