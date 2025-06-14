@@ -8,9 +8,8 @@
 
 ### 🚧 Currently Building
 
-**🕒 TimeLyze**  
+**🕒  [TimeLyze](https://timelyze.app)**  
 *Timelyze shows you how you really spend your time — no tracking or journaling required. It analyses your daily activities and calendar to generate intelligent, automatic summaries that reveal patterns, surface inefficiencies, and help you win.*
-🌐 [TimeLyze](https://timelyze.app)
 
 - Connect your calendar or log events manually  
 - View categorised summaries (study, work, gym, commute, etc.)  
