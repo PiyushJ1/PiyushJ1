@@ -10,7 +10,7 @@
 
 **🕒  [TimeLyze](https://timelyze.app)**
 
-*Timelyze shows you how you really spend your time — no tracking or journaling required. It analyses your daily activities and calendar to generate intelligent, automatic summaries that reveal patterns, surface inefficiencies, and help you win.*
+*TimeLyze helps students analyze how they **actually** spend their time — without journals, spreadsheets, or extra fluff. It turns your calendar or daily entries into AI-powered summaries that reveal your real habits, so you can study smarter, stay balanced, and reclaim your student life.*
 
 - Connect your calendar or log events manually  
 - View categorised summaries (study, work, gym, commute, etc.)  
