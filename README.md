@@ -10,7 +10,7 @@
 
 **🕒  [TimeLyze](https://timelyze.app)**
 
-*Analyze.Visualize. Optimize.*
+*Analyze. Visualize. Optimize.*
 
 **TimeLyze** is an AI-powered platform that transforms your study sessions into insightful visualizations. By logging your study time, tagging subjects, and noting your mood and focus, TimeLyze provides personalized analytics to help you understand your study patterns and optimize your learning efficiency.
 
