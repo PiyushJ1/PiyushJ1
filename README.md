@@ -10,11 +10,14 @@
 
 **🕒  [TimeLyze](https://timelyze.app)**
 
-*TimeLyze helps students analyze how they **actually** spend their time — without journals, spreadsheets, or extra fluff. It turns your calendar or daily entries into AI-powered summaries that reveal your real habits, so you can study smarter, stay balanced, and reclaim your student life.*
+*Visualize. Analyze. Optimize.*
 
-- Connect your calendar or log events manually  
-- View categorised summaries (study, work, gym, commute, etc.)  
-- Make more informed decisions with clear daily insights
+**TimeLyze is an AI-powered platform that transforms your study sessions into insightful visualizations. By logging your study time, tagging subjects, and noting your mood and focus, TimeLyze provides personalized analytics to help you understand your study patterns and optimize your learning efficiency.**
+
+🎯 Key Features
+- **AI-powered study analytics:** Track and visualize your study sessions by subject, method, and time to uncover actionable patterns in your learning habits.
+- **Personalized optimization insights:** Receive tailored, data-driven suggestions to help you improve focus, balance your workload, and reach your academic flow state.
+- **Beautiful, intuitive dashboards:** Instantly see your progress and study trends with clear graphs and insights designed specifically for students who want to study smarter.
 
 **🗄️ SQLite Clone in C**  
 - Replicating the core of a SQLite database  
