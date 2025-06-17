@@ -12,7 +12,7 @@
 
 *Analyze. Visualize. Optimize.*
 
-**TimeLyze** is an AI-powered platform that transforms your study sessions into insightful visualizations. By logging your study time, tagging subjects, and noting your mood and focus, TimeLyze provides personalized analytics to help you understand your study patterns and optimize your learning efficiency.
+**TimeLyze** transforms your study sessions into personalized strategies backed by your own data. Log your time, tag your subjects, and your focus levels. Our AI analyzes this data and creates beautiful, interactive visualizations that reveal where your hard work truly goes—helping you optimize your study habits and unlock your acadamic potential.
 
 **🎯 Key Features**
 - **AI-powered study analytics:** Track and visualize your study sessions by subject, method, and time to uncover actionable patterns in your learning habits.
