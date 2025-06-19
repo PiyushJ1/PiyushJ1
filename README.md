@@ -10,7 +10,7 @@
 
 **🕒  [TimeLyze](https://timelyze.app)**
 
-**TimeLyze** is an AI-powered study optimization tool that helps students reach their academic potential via data visualization and personalized insights from their own study data. 
+**TimeLyze** is an AI-powered study optimization tool that helps students reach their academic potential via data visualization and personalized insights. 
 
 **🎯 Key Features**
 - **AI-powered study analytics:** Tracks and visualizes study sessions by subject, method, and time to uncover actionable patterns in learning habits.
