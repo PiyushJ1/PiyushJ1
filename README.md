@@ -8,9 +8,9 @@
 
 ### Currently Building
 
-**🕒  [TimeLyze](https://timelyze.app)**
+**🕒  [StudyIntel](https://studyintel.app)**
 
-**TimeLyze** is an AI-powered study optimization tool that helps students reach their academic potential via data visualization and personalized insights. 
+**StudyIntel** is an AI-powered SaaS that helps students stop wasting time and start studying smarter. With personalized insights and progress visualizations, it reveals what's working, and what's not—so they can focus, improve, and achieve more.
 
 **🗄️ SQLite Clone in C**  
 
