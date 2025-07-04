@@ -6,8 +6,8 @@
 
 ---
 
-### Currently Building
----
+# Currently Building
+
 **[StudyIntel](https://studyintel.app)**
 
 **StudyIntel** is an AI-powered SaaS that helps students stop wasting time and start studying smarter. With personalized insights and progress visualizations, it reveals what's working, and what's not—so they can focus, improve, and achieve more.
