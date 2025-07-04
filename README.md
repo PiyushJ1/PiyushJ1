@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Piyush
+## 👋 Hi there, I'm Piyush
 
 📚 **2nd Year Software Engineering (Honours) Student**  
 📍 University of New South Wales (UNSW)  
@@ -6,7 +6,7 @@
 
 ---
 
-# Currently Building
+## Currently Building
 
 **[StudyIntel](https://studyintel.app)**
 
