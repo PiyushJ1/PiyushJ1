@@ -47,11 +47,12 @@ With personalized insights and progress visualizations, it reveals what's workin
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
+<!--
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PiyushJ1&show_icons=true&theme=default" alt="Piyush's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJ1&layout=compact&theme=default" alt="Top Languages" height="165" />
 </div>
+-->
