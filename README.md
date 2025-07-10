@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Piyush
 
 🎓 2nd Year Software Engineering (Honours) Student @ [UNSW](https://www.unsw.edu.au)  
-🌐 [Personal Website](https://piyushj.dev)
+<a target="_blank">🌐 [Personal Website](https://piyushj.dev)</a>
 
 ---
 
