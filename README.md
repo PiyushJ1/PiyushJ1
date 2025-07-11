@@ -1,11 +1,12 @@
 # 👋 Hi there, I'm Piyush
 
-🎓 2nd Year Software Engineering (Honours) Student @ [UNSW](https://www.unsw.edu.au)  
-🌐 <a href="https://piyushj.dev" target="_blank">Personal Website</a>
+2nd Year Software Engineering (Honours) Student @ UNSW
+
+My portfolio website: https://piyushj.dev
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 ### [StudyIntel](https://studyintel.app)
 **StudyIntel** is an AI-powered SaaS that helps students stop wasting time and start studying smarter.  
@@ -21,12 +22,10 @@ With personalized insights and progress visualizations, it reveals what's workin
 ---
 
 ### SQLite Clone
-🔧 Replicating the core of a **SQLite** database from scratch  
-🧠 Exploring deep database concepts like:
-- B-Tree indexing
-- File I/O
+Replicating the core of a **SQLite** database from scratch  
+ Exploring deep database concepts like:
 - Low-level memory management
-- Systems programming principles
+- Systems programming
 
 **Tech Stack**:  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
@@ -34,7 +33,7 @@ With personalized insights and progress visualizations, it reveals what's workin
 
 ---
 
-## 🛠️ Tech Stack / Tools
+## Tech Stack/Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
