@@ -9,8 +9,7 @@ My portfolio website: https://piyushj.dev
 ## Currently Building
 
 ### [StudyIntel](https://studyintel.app)
-**StudyIntel** is an AI-powered SaaS that helps students stop wasting time and start studying smarter.  
-With personalized insights and progress visualizations, it reveals what's working and what's not — so they can **focus**, **improve**, and **achieve more**.
+**StudyIntel** is a study intelligence platform that helps students stop wasting time and start studying smarter. With personalised AI insights and interactive data visualisations, it helps them understand their sense of progress and unlock their academic potential.
 
 **Tech Stack**:  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
