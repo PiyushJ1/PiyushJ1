@@ -4,8 +4,6 @@
 
 My portfolio website: https://piyushj.dev
 
----
-
 ## Currently Building
 
 ### [StudyIntel](https://studyintel.app)
@@ -17,8 +15,6 @@ My portfolio website: https://piyushj.dev
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
 
 ### SQLite Clone
 Replicating the core of a **SQLite** database from scratch  
