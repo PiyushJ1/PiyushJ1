@@ -2,12 +2,12 @@
 
 2nd Year Software Engineering (Honours) Student @ UNSW
 
-My portfolio website: https://piyushj.dev
+[My Personal Website](https://piyushj.dev)
 
 ## Currently Building
 
 ### [StudyIntel](https://studyintel.app)
-**StudyIntel** is a study intelligence platform that helps students stop wasting time and start studying smarter. With personalised AI insights and interactive data visualisations, it helps them understand their sense of progress and unlock their academic potential.
+Coming Soon
 
 **Tech Stack**:  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -15,6 +15,7 @@ My portfolio website: https://piyushj.dev
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-332A6C?style=flat&logo=data:image/svg+xml;base64,...)
 
 ### SQLite Clone
 Replicating the core of a **SQLite** database from scratch  
