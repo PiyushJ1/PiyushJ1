@@ -4,6 +4,7 @@
 
 [My Personal Website](https://piyushj.dev)
 
+<!--
 ## Currently Building
 
 ### [StudyIntel](https://studyintel.app)
